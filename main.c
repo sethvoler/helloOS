@@ -5,6 +5,6 @@
 void main()
 {
   // 在屏幕显示
-  printf("风华!");
+  printf("SethVoler!");
   return;
 }
